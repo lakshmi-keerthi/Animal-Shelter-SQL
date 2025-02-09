@@ -23,8 +23,3 @@ This project involves the development of a database management system for an ani
 
 ## **Results**
 The database management system significantly improved the efficiency of managing animal shelter operations, including intake, adoption, and medical record tracking, ensuring better data integrity and quicker access to records.
-
-## **How to Run the Code**
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/animal-shelter-db.git
